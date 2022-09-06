@@ -1,0 +1,5 @@
+2022-09-05 22:55:30 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-05 22:55:30 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-05 22:55:30 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
