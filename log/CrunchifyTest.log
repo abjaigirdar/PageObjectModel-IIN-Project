@@ -3,3 +3,43 @@
 
 2022-09-05 22:55:30 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
 2022-09-05 22:55:30 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 00:21:31 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 00:21:33 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 00:21:34 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 00:33:20 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 00:33:20 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 00:33:20 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 00:40:58 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 00:40:59 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 00:40:59 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 00:42:59 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 00:42:59 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 00:42:59 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 01:05:24 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 01:05:24 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 01:05:24 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 01:14:10 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 01:14:10 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 01:14:10 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 01:31:02 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 01:31:03 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 01:31:03 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-06 01:33:26 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-06 01:33:27 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-06 01:33:27 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver

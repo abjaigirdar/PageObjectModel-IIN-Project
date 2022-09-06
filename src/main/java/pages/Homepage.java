@@ -17,6 +17,10 @@ public class Homepage {
     @FindBy(css = "input[type='submit']")
     private WebElement sendMeMyClassButton;
 
+    @FindBy(linkText = "Enroll Now")
+    private WebElement enrollNowButton;
+
+
     public ModulesPage getSampleClass(String name, String email, String phoneNumber) {
         getFreeSampleClassButton.click();
         firstName.sendKeys(name);
@@ -25,6 +29,11 @@ public class Homepage {
         sendMeMyClassButton.click();
 
         return PageFactory.initElements(Browser.driver,ModulesPage.class);
+    }
+
+    public ApplicationPage navigateToApplicationPage() {
+        enrollNowButton.click();
+        return PageFactory.initElements(Browser.driver, ApplicationPage.class);
     }
 
 }
